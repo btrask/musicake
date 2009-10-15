@@ -47,19 +47,11 @@
 		08FB7794FE84155DC02AAC07 /* musicake */ = {
 			isa = PBXGroup;
 			children = (
-				08FB7795FE84155DC02AAC07 /* Source */,
+				08FB7796FE84155DC02AAC07 /* musicake.m */,
 				08FB779DFE84155DC02AAC07 /* External Frameworks and Libraries */,
 				1AB674ADFE9D54B511CA2CBB /* Products */,
 			);
 			name = musicake;
-			sourceTree = "<group>";
-		};
-		08FB7795FE84155DC02AAC07 /* Source */ = {
-			isa = PBXGroup;
-			children = (
-				08FB7796FE84155DC02AAC07 /* musicake.m */,
-			);
-			name = Source;
 			sourceTree = "<group>";
 		};
 		08FB779DFE84155DC02AAC07 /* External Frameworks and Libraries */ = {
