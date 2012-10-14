@@ -29,9 +29,9 @@ var SALT = "@#!mshaker";
 var parsedURL = /http:\/\/(.*)\/song\/(\d+)/.exec(process.argv[2]);
 
 if(!parsedURL) {
-	printf("musicake v2 Copyright (c) 2012, Ben Trask. BSD licensed.\n");
-	printf("Usage: musicake URL > output.mp3\n");
-	printf("Download a song from musicshake.\n");
+	console.log("musicake v2 Copyright (c) 2012, Ben Trask. BSD licensed.");
+	console.log("Usage: musicake URL > output.mp3");
+	console.log("Download a song from musicshake.");
 	return;
 }
 
